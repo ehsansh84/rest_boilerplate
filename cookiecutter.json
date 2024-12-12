@@ -1,0 +1,10 @@
+{
+  "project_name": "My Project",
+  "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "author_name": "Your Name",
+  "description": "A short description of the project.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "db_name": "db_name",
+  "mongo_url": "mongodb://localhost:27017"
+}
