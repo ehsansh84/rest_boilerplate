@@ -1,1 +1,2 @@
-print("tel, geram: => shirzadi")
+print("telgeram_id: => @shirzadi")
+
